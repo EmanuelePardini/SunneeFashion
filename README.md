@@ -1,6 +1,6 @@
 # SunneeFashion
 A PHP-based WebApi for a green recycle company management
-![Hacker News Screenshot](media/example.png)
+![HomePage](media/example.png)
 
 ## Features:
 -Insert products
